@@ -7,7 +7,7 @@ portfolio project
 poem gallery with lightbox
 contact form
 
-## Livee site
+## Live site
 [visit my portfolio] ()
 ## How to use
 click navigation links to explore different sections. click a poem image to view it n full screen.
